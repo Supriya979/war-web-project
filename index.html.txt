@@ -11,6 +11,8 @@
 <li>Kubernetes</li>
 <li>Ansible</li>
 <li>Terraform</li>
+<li>puppet</li>
+<li>shell</li>
 </ul>
 </body>
 </html>

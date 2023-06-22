@@ -1,3 +1,11 @@
 This is a content about maven
 
 maven is a software project management and comprehension tool.
+
+Features of maven:
+
+Simple project setup
+consistent usage across all projects
+superior dependency management
+Able to easily work with all projects
+

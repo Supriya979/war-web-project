@@ -1,0 +1,1 @@
+fatal: unable to access 'https://Supriya979/mynewrepo.git/': Could not resolve host: Supriya979
